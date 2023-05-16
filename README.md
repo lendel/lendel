@@ -1,4 +1,11 @@
 ### Hi there 👋
+![AppVeyor](https://img.shields.io/appveyor/build/lendel/ton-wallet-finder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lendel&repo=ton-wallet-finder)](https://github.com/lendel/ton-wallet-finder)
+
+---
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lendel&theme=dark&show_icons=true)
 
 <!--
