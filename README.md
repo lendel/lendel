@@ -1,6 +1,21 @@
 ### Hi there 👋
 ![GitHub last commit](https://img.shields.io/github/last-commit/lendel/ton-wallet-finder.svg)
 
+# TON Wallet Finder
+
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lendel/ton-wallet-finder/Node.js%20CI)
+![Node version](https://img.shields.io/node/v/ton-wallet-finder)
+![David](https://img.shields.io/david/lendel/ton-wallet-finder)
+![npm](https://img.shields.io/npm/v/ton-wallet-finder)
+![npm downloads](https://img.shields.io/npm/dw/ton-wallet-finder)
+![GitHub](https://img.shields.io/github/license/lendel/ton-wallet-finder)
+![GitHub stars](https://img.shields.io/github/stars/lendel/ton-wallet-finder?style=social)
+![GitHub forks](https://img.shields.io/github/forks/lendel/ton-wallet-finder?style=social)
+![GitHub issues](https://img.shields.io/github/issues-raw/lendel/ton-wallet-finder)
+
+// Здесь продолжайте ваш README файл
+
+
 
 ---
 
