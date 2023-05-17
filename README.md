@@ -3,7 +3,6 @@
 
 # TON Wallet Finder
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lendel/ton-wallet-finder/Node.js%20CI)
 ![Node version](https://img.shields.io/node/v/ton-wallet-finder)
 ![David](https://img.shields.io/david/lendel/ton-wallet-finder)
 ![npm](https://img.shields.io/npm/v/ton-wallet-finder)
@@ -13,7 +12,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/lendel/ton-wallet-finder?style=social)
 ![GitHub issues](https://img.shields.io/github/issues-raw/lendel/ton-wallet-finder)
 
-// Здесь продолжайте ваш README файл
+
 
 
 
